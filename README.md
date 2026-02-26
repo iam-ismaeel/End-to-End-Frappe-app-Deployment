@@ -1,6 +1,6 @@
 ### Ismail App
 
-my frappe Application.
+my frappe Application. 
 
 ### Installation
 
